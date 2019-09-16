@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 24em;
+  min-width: 24em;
+  min-height: 28em;
+  max-height: 28em;
+  box-shadow: 0px 0px 20px 0px rgba(15, 15, 15, 0.8);
+  border-radius: 6px;
+  padding: 24px;
+  background-color: aliceblue;
+}
+
+.errors{
+  color: red;
+  font-size: smaller;
+  margin-bottom: 0px;
+  padding: 0px;
+  float: left;
+}
+
+.ant-form-item {
+  margin-bottom: 15px !important;
+}
+
+.box-controller {
+  visibility: visible;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 20.5em;
+  min-width: 20.5em;
+  height: 50px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(15, 15, 15, 0.2);
+  box-shadow: 0px 0px 20px 0px rgba(15, 15, 15, 0.2);
+  margin-bottom: 10px;
+  align-items: center;
+  transition: visibility 0.5s ease-out;
+  background-color: aliceblue;
+}
+
+.controller {
+  flex: 1;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #28a745;
+  line-height: 2;
+  cursor: pointer;
+}

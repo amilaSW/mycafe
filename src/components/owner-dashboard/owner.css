@@ -1,0 +1,47 @@
+/*Header Styles*/
+
+.content-right{
+    align-content: flex-end;
+    text-align: right;
+    text-align: center;
+    
+    /*border: solid;*/
+    
+}
+
+/*DropDown Styles*/
+
+.text-style{
+    color: black;
+    margin-top: 0px;
+    text-align: center;
+    /*border: solid;*/
+
+}
+
+.icon-style{
+    margin-top: 30;
+    margin-bottom: 0;
+    height: 40px;
+    text-align: center;
+    margin-top: 10px;
+
+    /*border: solid;*/
+
+}
+
+/*Crowd*/
+
+.row-style{
+    background-color: white;
+    opacity: 0.6;
+    filter: alpha(opacity=10);
+    padding: 10px;
+}
+
+#divCrowd{
+    /*background: white;  */
+    /*margin: 10px;  */
+   
+}
+

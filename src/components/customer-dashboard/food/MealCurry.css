@@ -1,0 +1,40 @@
+#mealCurryMain {
+  width: 40rem;
+  height: 10rem;
+}
+
+#imageCol {
+  margin: 5px auto;
+}
+
+#image {
+  background-color: crimson;
+  width: 9rem;
+  height: 9rem;
+}
+
+#content {
+  background-color: rgb(182, 180, 180);
+  color: aliceblue;
+  margin: 5px auto;
+}
+
+#curries {
+  margin: 1px auto;
+  text-align: center;
+}
+
+#price {
+  background-color: rgb(73, 73, 73);
+  color: aliceblue;
+  margin: 5px auto;
+  margin-right: 20px;
+  margin-left: 10px;
+  width: 5rem;
+}
+
+#order {
+  margin-right: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+{"canteens" :[
+
+    {
+        "id" : "1",
+        "name" : "Science Canteen ",
+        "lat" : 5.940108,
+        "lng" :80.576840
+        
+    }
+,
+    {
+        "id" : "2",
+        "name" : "Art Canteen ",
+        "lat" : 5.938490,
+        "lng" :80.577022
+    }
+]}

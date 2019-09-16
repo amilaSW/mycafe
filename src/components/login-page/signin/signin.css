@@ -1,0 +1,26 @@
+.input-field {
+  width: 180px;
+  /*border: black solid;*/
+  
+}
+
+.checkbox :checked{
+    column-fill: black;
+}
+
+.checkbox {
+  color: white;
+  float: right;
+}
+
+.login-form-forgot {
+  color: white;
+}
+
+.login-form-forgot:focus{
+    color: black
+}
+
+.ant-form-item {
+  margin-bottom: 0px !important;
+}
