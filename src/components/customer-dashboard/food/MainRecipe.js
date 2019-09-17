@@ -1,14 +1,18 @@
 import React, { Component } from "react";
 
-import MainMeal from "./MainMeal";
+import Meal from './Meal'
+
+import pic from './image/rice.jpg'
+
 
 class MainRecipe extends Component {
   state = {};
   render() {
     return (
       <div>
-        <h1>Main Recipe</h1>
-        <MainMeal />
+        <Meal image={pic}/>
+        <Meal image={pic}/>
+        <Meal image={pic}/>
       </div>
     );
   }

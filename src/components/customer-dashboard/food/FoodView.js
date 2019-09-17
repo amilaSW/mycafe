@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 //ant-design
-import { Tabs, Icon ,Row,Col} from "antd";
+import { Tabs,Row,Col} from "antd";
 
 //custom imports
 import MainRecipe from "./MainRecipe";
