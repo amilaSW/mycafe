@@ -17,7 +17,7 @@ import * as CanteenData from "./data/canteens.json";
 
 import mapStyles from "./mapStyles";
 
-const REACT_APP_GOOGLE_KEY = "AIzaSyAtiPH_H4EuezcOGztvA1_UP_sRtNP7CVA";
+const REACT_APP_GOOGLE_KEY = "";
 
 function Map() {
   const [seletedCanteen, setSeletedCanteen] = useState(null);
